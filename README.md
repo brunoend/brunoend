@@ -75,10 +75,12 @@ Desde o início de 2024, venho desenvolvendo projetos reais de design e redesign
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas do GitHub
 
-![Seus Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoend&layout=compact&theme=dracula"/>
+</div>
 
 ---
 
