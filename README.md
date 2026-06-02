@@ -34,17 +34,21 @@ Desde o início de 2024, venho desenvolvendo projetos reais de design e redesign
 - ✅ Dashboard para gerenciar links
 - ✅ Analytics (cliques por dia, dispositivos, referenciadores)
 
-[🔗 Ver repositório](https://github.com/seu-usuario/linkhub)
+[🔗 Ver repositório](https://github.com/brunoend/linkhub)
 
 ---
+### 📈 Agência Gerais - Website para Agência de Marketing Digital
+> *Site institucional desenvolvido para uma agência de marketing digital, com foco em credibilidade, serviços e conversão de leads.*
 
-### 🍽️ [Projeto Gourmet - Em breve]
-> *Website para chef ou restaurante fine dining com design premium.*
+- ✅ Design moderno e profissional para o nicho de marketing
+- ✅ Layout 100% responsivo (celular, tablet, desktop)
+- ✅ Seções claras de serviços, resultados (contadores animados) e diferenciais
+- ✅ Chamadas para ação (CTA) estrategicamente posicionadas
+- ✅ Estrutura de código limpa (HTML/CSS/JS) e fácil de manter
 
----
+🔗 **Acesse o site:** [https://agenciagerais.netlify.app/](https://agenciagerais.netlify.app/)
 
-### 🚀 [Startup Landing Page - Em breve]
-> *Landing page moderna para SaaS ou startup tech.*
+📂 **Repositório:** [ver código-fonte]((https://github.com/brunoend/Agencia-gerais-de-redes-sociais))
 
 ---
 
