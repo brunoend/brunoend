@@ -1,16 +1,16 @@
-#  Olá! Eu sou Bruno A.
+#  Hello! I'm Bruno A.
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou **Web Designer e Front-End Developer** com foco em criar sites modernos, responsivos e que realmente ajudam negócios a vender mais.
+I'm a **Web Designer and Front-End Developer** focused on creating modern, responsive websites that truly help businesses sell more.
 
-Desde o início de 2024, venho desenvolvendo projetos reais de design e redesign de websites. Atualmente curso **Backend em uma instituição renomada do sul do Brasil**, o que me dá uma visão completa do desenvolvimento — da interface ao sistema por trás dela.
+Since early 2024, I've been developing real design and redesign projects. I'm currently studying **Backend at a renowned institution in southern Brazil**, which gives me a complete development perspective — from the interface to the systems behind it.
 
-💡 **Diferencial:** Entendo tanto de front-end (design, experiência do usuário) quanto de backend (banco de dados, lógica, APIs). Isso significa que posso criar soluções completas, evitando retrabalho.
+💡 **My Differentiator:** I understand both front-end (design, user experience) and backend (databases, logic, APIs). This means I can create complete solutions, avoiding rework.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,57 +22,58 @@ Desde o início de 2024, venho desenvolvendo projetos reais de design e redesign
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-### 🔗 LinkHub - Encurtador de URLs com Analytics
-> *Sistema completo de encurtamento de URLs com rastreamento de cliques, analytics e autenticação JWT.*
+### 🔗 LinkHub - URL Shortener with Analytics
+> *Complete URL shortening system with click tracking, analytics, and JWT authentication.*
 
-- ✅ Backend com Node.js + Express
-- ✅ Banco SQLite
-- ✅ Autenticação JWT
-- ✅ Frontend com Tailwind CSS
-- ✅ Dashboard para gerenciar links
-- ✅ Analytics (cliques por dia, dispositivos, referenciadores)
+- ✅ Backend with Node.js + Express
+- ✅ SQLite Database
+- ✅ JWT Authentication
+- ✅ Frontend with Tailwind CSS
+- ✅ Dashboard to manage links
+- ✅ Analytics (clicks per day, devices, referrers)
 
-[🔗 Ver repositório](https://github.com/brunoend/linkhub)
+[🔗 View Repository](https://github.com/brunoend/linkhub)
 
 ---
-### 📱 Agência Gerais - Website Completo para Marketing Digital
 
-> Um site profissional e multi-páginas desenvolvido para uma agência de marketing digital. O projeto demonstra minha capacidade de criar experiências completas, do design à funcionalidade.
+### 📱 Agência Gerais - Complete Marketing Digital Website
 
-- ✅ **Site completo:** 6+ páginas (Home, Sobre, Serviços, Pacotes, Orçamento, Gestão de Redes, Tráfego Pago, Criação de Conteúdo)
-- ✅ **Design 100% responsivo:** Funciona perfeitamente em desktop, tablet e smartphone.
-- ✅ **Funcionalidades:** Formulário de orçamento funcional e chat integrado (HTML/CSS/JS puro).
-- ✅ **Performance Otimizada:** Código limpo e bem estruturado, focado em SEO e velocidade.
-- ✅ **Diferencial no mercado:** Prova que posso entregar não só um design bonito, mas um sistema funcional e completo.
+> A professional multi-page website developed for a digital marketing agency. The project demonstrates my ability to create complete experiences, from design to functionality.
+
+- ✅ **Complete Website:** 6+ pages (Home, About, Services, Packages, Budget, Social Media Management, Paid Traffic, Content Creation)
+- ✅ **100% Responsive Design:** Works perfectly on desktop, tablet, and smartphone
+- ✅ **Functionalities:** Functional budget form and integrated chat (pure HTML/CSS/JS)
+- ✅ **Optimized Performance:** Clean, well-structured code focused on SEO and speed
+- ✅ **Market Differentiator:** Proves I can deliver not just a beautiful design, but a complete functional system
 
 🔗 **Live Preview:** [https://agenciagerais.netlify.app/](https://agenciagerais.netlify.app/)
-📂 **Repositório:** [github.com/brunoend/Agencia-gerais-de-redes-sociais](https://github.com/brunoend/Agencia-gerais-de-redes-sociais)
+📂 **Repository:** [github.com/brunoend/Agencia-gerais-de-redes-sociais](https://github.com/brunoend/Agencia-gerais-de-redes-sociais)
 
 ---
 
-## 🎯 O que eu ofereço
+## 🎯 What I Offer
 
-| Serviço | Descrição |
-|---------|-----------|
-| **Design de site do zero** | Criação completa baseada na sua marca |
-| **Redesign de site existente** | Modernização de sites antigos ou feios |
-| **Front-end code** | HTML, CSS, Tailwind, React |
-| **Responsividade** | Funciona em celular, tablet e computador |
-| **Backend básico** | Formulários, login, banco de dados |
+| Service | Description |
+|---------|-------------|
+| **Website Design from Scratch** | Complete creation based on your brand |
+| **Existing Website Redesign** | Modernizing old or outdated sites |
+| **Front-end Code** | HTML, CSS, Tailwind, React |
+| **Responsiveness** | Works on mobile, tablet, and computer |
+| **Basic Backend** | Forms, login systems, databases |
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Where to Find Me
 
 - **LinkedIn:** [linkedin.com/in/bruno-alves-72a392348/](https://www.linkedin.com/in/bruno-alves-72a392348/)
 - **Fiverr:** [br.fiverr.com/brunoca189](https://br.fiverr.com/brunoca189)
 - **99Freelas:** [99freelas.com.br/user/brunoca](https://www.99freelas.com.br/user/brunoca)
 - **Upwork:** [upwork.com/freelancers/~01c4641d14e90d9996](https://upwork.com/freelancers/~01c4641d14e90d9996)
 - **Stack Overflow:** [stackoverflow.com/users/32792205/bruno-alves](https://stackoverflow.com/users/32792205/bruno-alves)
-- **Email:** [seuemail@gmail.com](mailto:brunocza991@gmail.com)
+- **Email:** [brunocza991@gmail.com](mailto:brunocza991@gmail.com)
 
 ---
 
-⭐ **Se gostou do meu trabalho, deixe uma estrela nos repositórios!** ⭐
+⭐ **If you liked my work, leave a star on the repositories!** ⭐
