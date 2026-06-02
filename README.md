@@ -37,18 +37,18 @@ Desde o início de 2024, venho desenvolvendo projetos reais de design e redesign
 [🔗 Ver repositório](https://github.com/brunoend/linkhub)
 
 ---
-### 📈 Agência Gerais - Website para Agência de Marketing Digital
-> *Site institucional desenvolvido para uma agência de marketing digital, com foco em credibilidade, serviços e conversão de leads.*
+### 📱 Agência Gerais - Website Completo para Marketing Digital
 
-- ✅ Design moderno e profissional para o nicho de marketing
-- ✅ Layout 100% responsivo (celular, tablet, desktop)
-- ✅ Seções claras de serviços, resultados (contadores animados) e diferenciais
-- ✅ Chamadas para ação (CTA) estrategicamente posicionadas
-- ✅ Estrutura de código limpa (HTML/CSS/JS) e fácil de manter
+> Um site profissional e multi-páginas desenvolvido para uma agência de marketing digital. O projeto demonstra minha capacidade de criar experiências completas, do design à funcionalidade.
 
-🔗 **Acesse o site:** [https://agenciagerais.netlify.app/](https://agenciagerais.netlify.app/)
+- ✅ **Site completo:** 6+ páginas (Home, Sobre, Serviços, Pacotes, Orçamento, Gestão de Redes, Tráfego Pago, Criação de Conteúdo)
+- ✅ **Design 100% responsivo:** Funciona perfeitamente em desktop, tablet e smartphone.
+- ✅ **Funcionalidades:** Formulário de orçamento funcional e chat integrado (HTML/CSS/JS puro).
+- ✅ **Performance Otimizada:** Código limpo e bem estruturado, focado em SEO e velocidade.
+- ✅ **Diferencial no mercado:** Prova que posso entregar não só um design bonito, mas um sistema funcional e completo.
 
-📂 **Repositório:** [ver código-fonte]((https://github.com/brunoend/Agencia-gerais-de-redes-sociais))
+🔗 **Live Preview:** [https://agenciagerais.netlify.app/](https://agenciagerais.netlify.app/)
+📂 **Repositório:** [github.com/brunoend/Agencia-gerais-de-redes-sociais](https://github.com/brunoend/Agencia-gerais-de-redes-sociais)
 
 ---
 
@@ -66,10 +66,12 @@ Desde o início de 2024, venho desenvolvendo projetos reais de design e redesign
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/seu-perfil)
-[![99Freelas](https://img.shields.io/badge/99Freelas-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://99freelas.com.br/user/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+- **LinkedIn:** [linkedin.com/in/bruno-alves-72a392348/](https://www.linkedin.com/in/bruno-alves-72a392348/)
+- **Fiverr:** [br.fiverr.com/brunoca189](https://br.fiverr.com/brunoca189)
+- **99Freelas:** [99freelas.com.br/user/brunoca](https://www.99freelas.com.br/user/brunoca)
+- **Upwork:** [upwork.com/freelancers/~01c4641d14e90d9996](https://upwork.com/freelancers/~01c4641d14e90d9996)
+- **Stack Overflow:** [stackoverflow.com/users/32792205/bruno-alves](https://stackoverflow.com/users/32792205/bruno-alves)
+- **Email:** [seuemail@gmail.com](mailto:brunocza991@gmail.com)
 
 ---
 
