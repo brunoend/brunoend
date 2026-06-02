@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Bruno A.
+#  Olá! Eu sou Bruno A.
 
 ## 🚀 Sobre mim
 
