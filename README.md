@@ -1,12 +1,8 @@
-#  Hello! I'm Bruno A.
-
 ## 🚀 About Me
 
 I'm a **Web Designer and Front-End Developer** focused on creating modern, responsive websites that truly help businesses sell more.
 
 Since early 2024, I've been developing real design and redesign projects. I'm currently studying **Backend at a renowned institution in southern Brazil**, which gives me a complete development perspective — from the interface to the systems behind it.
-
-💡 **My Differentiator:** I understand both front-end (design, user experience) and backend (databases, logic, APIs). This means I can create complete solutions, avoiding rework.
 
 ---
 
