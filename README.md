@@ -54,7 +54,6 @@ Since early 2024, I've been building real projects — from interactive coding p
 - ✅ Modern design focused on conversion
 
 🔗 **Live Demo:** [devnextvita.vercel.app](https://devnextvita.vercel.app)
-📂 **Repository:** [github.com/brunoend/nextvita-site](https://github.com/brunoend/nextvita-site)
 
 ---
 
