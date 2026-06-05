@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Bruno A.
 
-## 🚀 About Me
-
 I'm a **Web Developer, Front-End Designer, and Programming Educator** passionate about helping beginners master logic and backend development.
 
 Since early 2024, I've been building real projects — from interactive coding platforms to professional freelancer websites. I currently study **Backend at a top institution in southern Brazil**.
