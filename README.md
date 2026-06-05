@@ -1,8 +1,14 @@
+# 👋 Hello! I'm Bruno A.
+
 ## 🚀 About Me
 
-I'm a **Web Designer and Front-End Developer** focused on creating modern, responsive websites that truly help businesses sell more.
+I'm a **Web Developer, Front-End Designer, and Programming Educator** passionate about helping beginners master logic and backend development.
 
-Since early 2024, I've been developing real design and redesign projects. I'm currently studying **Backend at a renowned institution in southern Brazil**, which gives me a complete development perspective — from the interface to the systems behind it.
+Since early 2024, I've been building real projects — from interactive coding platforms to professional freelancer websites. I currently study **Backend at a top institution in southern Brazil**.
+
+🎓 **Content Creator:** I teach programming logic and Java to aspiring developers on TikTok (+60k followers). My mission is to make coding accessible through hands-on exercises and clear explanations.
+
+💡 **My Differentiator:** I combine front-end design, backend systems, and teaching experience — creating solutions that are both beautiful and educational.
 
 ---
 
@@ -12,40 +18,45 @@ Since early 2024, I've been developing real design and redesign projects. I'm cu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔗 LinkHub - URL Shortener with Analytics
-> *Complete URL shortening system with click tracking, analytics, and JWT authentication.*
+### 🎓 Java Learning – Interactive Coding Platform
+> *A hands-on platform with 25 Java exercises across 5 difficulty levels. Built to teach programming logic to beginners.*
 
-- ✅ Backend with Node.js + Express
-- ✅ SQLite Database
-- ✅ JWT Authentication
-- ✅ Frontend with Tailwind CSS
-- ✅ Dashboard to manage links
-- ✅ Analytics (clicks per day, devices, referrers)
+- ✅ **25 interactive exercises** with instant feedback
+- ✅ **5 difficulty levels** (syntax basics → advanced structures)
+- ✅ Fill-in-the-code system for active learning
+- ✅ Built with **Next.js, TypeScript, and Tailwind CSS**
+- ✅ User progress tracking and phase navigation
 
-[🔗 View Repository](https://github.com/brunoend/linkhub)
+> 💡 **Why this matters:** This project represents my mission as a content creator (+60k on TikTok):  
+> *"I help beginner programmers master logic through real exercises and clear teaching."*
+
+🔗 **Live Demo:** [nextvitajava.vercel.app](https://nextvitajava.vercel.app)
+📂 **Repository:** [github.com/brunoend/site-de-ensino-java](https://github.com/brunoend/site-de-ensino-java)
 
 ---
 
-### 📱 Agência Gerais - Complete Marketing Digital Website
+### 💼 Freelance Portfolio & Business Site
+> *Professional website to showcase web development services, skills, and capture client leads.*
 
-> A professional multi-page website developed for a digital marketing agency. The project demonstrates my ability to create complete experiences, from design to functionality.
+- ✅ Services section: Landing Pages, Front-end, Responsive Design
+- ✅ Skills showcase (HTML/CSS, JavaScript, React, Node.js, Tailwind, PostgreSQL)
+- ✅ Budget request form with API integration
+- ✅ Built with **Next.js, TypeScript, Tailwind CSS, and NextAuth**
+- ✅ Modern design focused on conversion
 
-- ✅ **Complete Website:** 6+ pages (Home, About, Services, Packages, Budget, Social Media Management, Paid Traffic, Content Creation)
-- ✅ **100% Responsive Design:** Works perfectly on desktop, tablet, and smartphone
-- ✅ **Functionalities:** Functional budget form and integrated chat (pure HTML/CSS/JS)
-- ✅ **Optimized Performance:** Clean, well-structured code focused on SEO and speed
-- ✅ **Market Differentiator:** Proves I can deliver not just a beautiful design, but a complete functional system
-
-🔗 **Live Preview:** [https://agenciagerais.netlify.app/](https://agenciagerais.netlify.app/)
-📂 **Repository:** [github.com/brunoend/Agencia-gerais-de-redes-sociais](https://github.com/brunoend/Agencia-gerais-de-redes-sociais)
+🔗 **Live Demo:** [devnextvita.vercel.app](https://devnextvita.vercel.app)
+📂 **Repository:** [github.com/brunoend/nextvita-site](https://github.com/brunoend/nextvita-site)
 
 ---
 
@@ -53,11 +64,10 @@ Since early 2024, I've been developing real design and redesign projects. I'm cu
 
 | Service | Description |
 |---------|-------------|
-| **Website Design from Scratch** | Complete creation based on your brand |
-| **Existing Website Redesign** | Modernizing old or outdated sites |
-| **Front-end Code** | HTML, CSS, Tailwind, React |
-| **Responsiveness** | Works on mobile, tablet, and computer |
-| **Basic Backend** | Forms, login systems, databases |
+| **Custom Web Development** | Full front-end and basic backend solutions |
+| **Programming Mentorship** | Logic, Java, and backend fundamentals |
+| **Freelance Design** | Modern, responsive websites for businesses |
+| **Content Creation** | Programming tutorials and exercises |
 
 ---
 
@@ -72,4 +82,4 @@ Since early 2024, I've been developing real design and redesign projects. I'm cu
 
 ---
 
-⭐ **If you liked my work, leave a star on the repositories!** ⭐
+⭐ **If you like my work, leave a star on the repositories!** ⭐
